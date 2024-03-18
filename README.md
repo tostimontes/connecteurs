@@ -10,13 +10,16 @@ This tool is an excellent way for beginners and intermediate learners to practic
 The program operates by randomly selecting a connector (a word or phrase that links parts of a sentence) from a predefined list and asking the user to translate it from French to Spanish or vice versa. It then evaluates the user's response, highlighting the differences from the correct translation if needed. To aid learning, it also displays example sentences using the selected connector in both French and Spanish.
 
 - Wrong answer
-  ![wrong-answer](/screenshots/wrong-answer.png)
+
+![wrong-answer](/screenshots/wrong-answer.png)
 
 - Almost correct answer
-  ![almost-answer](/screenshots/almost-answer.png)
+
+![almost-answer](/screenshots/almost-answer.png)
 
 - Correct answer
-  ![correct-answer](/screenshots/correct-answer.png)
+
+![correct-answer](/screenshots/correct-answer.png)
 
 ## Setup and Execution
 
