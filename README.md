@@ -29,7 +29,7 @@ The program operates by randomly selecting a connector (a word or phrase that li
 
 ### Installation
 
-1. Download the `connecteurs.py` file to your local machine.
+1. [Download the `connecteurs.py` file](https://github.com/tostimontes/connecteurs/raw/master/connecteurs.py) to your local machine.
 2. Open your terminal or command prompt.
 
 ### Running the Program
