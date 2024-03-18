@@ -767,7 +767,7 @@ def main():
 
         print()
 
-        response = input("Try another? (Enter to continue, 'no' to quit): ")
+        response = input("Try another? ([Enter] to continue, '[n]o' to quit): ")
         print("\033[A\033[K", end="")  # Move cursor up and clear line
         if response.lower() in ["no", "n"]:
             break
