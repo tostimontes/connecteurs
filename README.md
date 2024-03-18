@@ -11,8 +11,10 @@ The program operates by randomly selecting a connector (a word or phrase that li
 
 - Wrong answer
   ![wrong-answer](/screenshots/wrong-answer.png)
+
 - Almost correct answer
   ![almost-answer](/screenshots/almost-answer.png)
+
 - Correct answer
   ![correct-answer](/screenshots/correct-answer.png)
 
@@ -38,7 +40,6 @@ python connecteurs.py
 Follow the on-screen instructions to interact with the program.
 
 ## Libraries Used
-
 
 - `random`: For selecting connectors randomly.
 - `difflib`: To compare user input with the correct answer and provide a similarity score.
